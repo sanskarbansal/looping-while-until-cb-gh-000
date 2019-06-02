@@ -6,6 +6,5 @@ def using_until
     puts "Wingardium Leviosa"
     i +=1
   end
-    
-end
 
+end
